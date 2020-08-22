@@ -3,7 +3,7 @@ A SPA made with Laravel 5.6, Bootstrap 4, JWT Auth, Vue 2, Vue-router 3, Vuex 3,
 
 ## Demo 
 
-![Laravel Vue SPA](https://media.giphy.com/media/26n3JhU8JqIYlxVCw/giphy.gif)
+![Laravel Vue SPA](./demo.gif)
 
 ## What's New
  * Upgraded to [Bootstrap 4](http://getbootstrap.com) from [Bootstrap 3](https://getbootstrap.com/docs/3.3)
